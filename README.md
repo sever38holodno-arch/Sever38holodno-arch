@@ -1,4 +1,6 @@
-## Hi there 👋
+привет это созданая мной страница 
+Николай Юрьевич создатель 
+у меня балкон с видом на Саяны👋
 
 <!--
 **sever38holodno-arch/Sever38holodno-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
